@@ -47,5 +47,8 @@
                 "path": "./syntaxes/rasi.tmLanguage.json"
             }
         ]
+    },
+    "dependencies": {
+        "@vscode/vsce": "^3.7.1"
     }
 }
